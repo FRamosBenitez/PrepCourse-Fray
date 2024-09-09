@@ -1,2 +1,1 @@
-# PrepCourse-Fray
-Este es un repositorio del modulo2 de PrepCourse Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde el GitHab a mi  escritorio local
